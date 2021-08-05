@@ -47,7 +47,7 @@ class _GoogleMapDemoState extends State<GoogleMapDemo> {
 
       appBar: AppBar(
 
-        title : Text("Sample"),
+        title : Text("google Map"),
 
       ),
 
